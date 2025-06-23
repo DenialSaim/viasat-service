@@ -1,5 +1,5 @@
-project = '-'
-author = 'Your Name'
+project = 'viasat customer service'
+author = 'Denial'
 release = '1.0'
  
 extensions = []
